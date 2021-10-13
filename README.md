@@ -4,13 +4,13 @@ You are given a sequence of opening and closing parentheses, square brackets, an
 It is required to write a program in any programming language,
 which checks the parenthesis sequence for correctness.
 
-Input: ()[]{}
-Output: True
-Input (){[]}([])
-Output: True
-Input: )([]
-Output: False
-Input: ([)]{}
-Output: False
-Input: ([)]
-Output: False
+- Input: ()[]{}
+  Output: True
+- Input (){[]}([])
+  Output: True
+- Input: )([]
+  Output: False
+- Input: ([)]{}
+  Output: False
+- Input: ([)]
+  Output: False
